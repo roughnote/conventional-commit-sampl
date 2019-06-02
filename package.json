@@ -1,6 +1,6 @@
 {
   "name": "conventional-commit-sample",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "sample to demo the conventional commit and docs generation",
   "main": "index.js",
   "scripts": {
