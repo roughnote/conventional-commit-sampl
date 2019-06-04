@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [6.0.0](https://github.com/roughnote/conventional-commit-sample/compare/v5.3.0...v6.0.0) (2019-06-04)
+
+
+### Features
+
+* added a big feature ([a92bb2e](https://github.com/roughnote/conventional-commit-sample/commit/a92bb2e))
+
+
+### BREAKING CHANGES
+
+* some description
+
+
+
 ## [5.3.0](https://github.com/roughnote/conventional-commit-sample/compare/v5.2.0...v5.3.0) (2019-06-04)
 
 
