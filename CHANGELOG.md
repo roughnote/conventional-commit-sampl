@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.3.0](https://github.com/roughnote/conventional-commit-sample/compare/v5.2.0...v5.3.0) (2019-06-04)
+
+
+### Bug Fixes
+
+* added the demo bug fix ([c28f29b](https://github.com/roughnote/conventional-commit-sample/commit/c28f29b))
+
+
+### Features
+
+* added a new feature ([af33c00](https://github.com/roughnote/conventional-commit-sample/commit/af33c00))
+
+
+
 ## [5.2.0](https://github.com/roughnote/conventional-commit-sample/compare/v5.1.0...v5.2.0) (2019-06-04)
 
 
